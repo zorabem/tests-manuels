@@ -1,6 +1,7 @@
 # Cas de test QA manuels – Projet Démo
 
-Ce dépôt contient des exemples de cas de test manuels pour une fonctionnalité de connexion à une application e-commerce.
+Ce dépôt contient des exemples de cas de test manuels pour quelques fonctionnalités basiques à 3 applications sur lesquelles nous avons travaillé :
+
 
 ## 📋 Contenu
 
@@ -9,15 +10,29 @@ Ce dépôt contient des exemples de cas de test manuels pour une fonctionnalité
 
 ## 🔍 Scénario de test
 
-Module : Connexion utilisateur  
 Plateforme : Web  
 Navigateurs : Chrome, Firefox  
 Environnement : Préproduction
 
+Module 1 : Connexion utilisateur
+Module 2 : 
+Module 3 : 
+
+---
+
+## 🔗 Aperçu en ligne
+
+- 🧾 **Voir les cas de test sur Google Sheets** :  
+  [👉 Accéder aux documents]
+  https://docs.google.com/spreadsheets/d/196kGWrFFZZYpd9sSCaJTAwiVjQxFP04p/edit?gid=310606351#gid=310606351
+  
+> 🔒 Le document est en lecture seule. Merci de faire une copie si vous souhaitez l’éditer.
+
 ## 🧰 Outils utilisés
 
-- Excel / Google Sheets pour la rédaction des cas de test
-- Word pour le rapport de bug
+- **Google Sheets** pour la rédaction des cas de test
+- **Word** pour le rapport de bug
+- **GitHub** pour le versioning
 
 ## 👨‍💻 Auteur
 

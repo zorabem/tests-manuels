@@ -32,10 +32,10 @@ Module 3 :
   
  - 🧾 **Voir les rapports de bug sur Google Sheets** :  
   👉 https://docs.google.com/document/d/1Z_yleFYxFWzDhltg2UNbN5yHSh1FCkh7uKWPRcSBxR8/edit?tab=t.0
-
+  
   👉
   
-  👉 
+  👉
   
  
 

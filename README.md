@@ -34,7 +34,11 @@ Module 3 :
 - **Word** pour le rapport de bug
 - **GitHub** pour le versioning
 
-## 👨‍💻 Auteur
+## 🧑‍💻 Auteur
 
-zorabem – Testeur QA Freelance 🇲🇬
+**Zo Rabemolaly**  
+📧 zo.rabemolaly@yahoo.fr  
+🎯 Testeur QA Freelance – Madagascar  
+
+
 

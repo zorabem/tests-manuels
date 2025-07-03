@@ -18,15 +18,15 @@ Module 1 : Connexion utilisateur
 Module 2 : 
 Module 3 : 
 
----
-
 ## 🔗 Aperçu en ligne
 
 - 🧾 **Voir les cas de test sur Google Sheets** :  
-  [👉 Accéder aux documents]
+  👉 Accéder aux documents:
   https://docs.google.com/spreadsheets/d/196kGWrFFZZYpd9sSCaJTAwiVjQxFP04p/edit?gid=310606351#gid=310606351
   
-> 🔒 Le document est en lecture seule. Merci de faire une copie si vous souhaitez l’éditer.
+ - 🧾 **Voir le rapport de bug sur Google Sheets** :  
+  👉 Accéder aux documents:
+  https://docs.google.com/spreadsheets/d/196kGWrFFZZYpd9sSCaJTAwiVjQxFP04p/edit?gid=310606351#gid=310606351 
 
 ## 🧰 Outils utilisés
 

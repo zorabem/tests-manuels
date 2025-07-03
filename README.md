@@ -29,14 +29,13 @@ Module 3 :
   
   👉
   
-  
- - 🧾 **Voir les rapports de bug sur Google Sheets** :  
+- 🧾 **Voir les cas de test sur Google Sheets** :  
   👉 https://docs.google.com/document/d/1Z_yleFYxFWzDhltg2UNbN5yHSh1FCkh7uKWPRcSBxR8/edit?tab=t.0
- 
+  
   👉 https://docs.google.com/document/d/1rpgjFvA4AjRPtu6JhG2Zx_Ylgc6laYb1fnxTlyP_CZc/edit?tab=t.0#heading=h.xipwhhtaumw4
   
   👉
- 
+  
 
 ## 🧰 Outils utilisés
 

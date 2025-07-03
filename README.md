@@ -24,13 +24,19 @@ Module 3 :
 
 - 🧾 **Voir les cas de test sur Google Sheets** :  
   👉 https://docs.google.com/spreadsheets/d/196kGWrFFZZYpd9sSCaJTAwiVjQxFP04p/edit?gid=310606351#gid=310606351
+  
   👉
-  👉 
+  
+  👉
+  
   
  - 🧾 **Voir les rapports de bug sur Google Sheets** :  
   👉 https://docs.google.com/document/d/1Z_yleFYxFWzDhltg2UNbN5yHSh1FCkh7uKWPRcSBxR8/edit?tab=t.0
+
   👉
+  
   👉 
+  
  
 
 ## 🧰 Outils utilisés

@@ -5,7 +5,7 @@ Ce dépôt contient des exemples de cas de test manuels pour quelques fonctionna
 
 ## 📋 Contenu
 
-- Cas de test fonctionnels (formats Excel & CSV)
+- Cas de tests fonctionnels (formats Excel & CSV)
 - Rapport de bug (fichier Word)
 
 ## 🔍 Scénario de test
@@ -23,14 +23,15 @@ Module 3 :
 ## 🔗 Aperçu en ligne
 
 - 🧾 **Voir les cas de test sur Google Sheets** :  
-  👉 Accéder aux documents:
-  
-  https://docs.google.com/spreadsheets/d/196kGWrFFZZYpd9sSCaJTAwiVjQxFP04p/edit?gid=310606351#gid=310606351
+  👉 https://docs.google.com/spreadsheets/d/196kGWrFFZZYpd9sSCaJTAwiVjQxFP04p/edit?gid=310606351#gid=310606351
+  👉
+  👉 
   
  - 🧾 **Voir les rapports de bug sur Google Sheets** :  
-  👉 Accéder aux documents:
-
-  https://docs.google.com/document/d/1Z_yleFYxFWzDhltg2UNbN5yHSh1FCkh7uKWPRcSBxR8/edit?tab=t.0
+  👉 https://docs.google.com/document/d/1Z_yleFYxFWzDhltg2UNbN5yHSh1FCkh7uKWPRcSBxR8/edit?tab=t.0
+  👉
+  👉 
+ 
 
 ## 🧰 Outils utilisés
 

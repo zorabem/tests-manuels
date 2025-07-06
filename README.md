@@ -1,4 +1,4 @@
-# Cas de test QA manuels – Projet Démo
+# Cas de test QA manuels 
 
 Ce dépôt contient des exemples de cas de test manuels pour 3 fonctionnalités basiques : login, gestion clients et gestion commandes.
 

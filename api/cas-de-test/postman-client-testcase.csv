@@ -1,0 +1,12 @@
+ ,,,,,,,,
+Id,Description du Test,Prérequis,Etapes de Test,Résultat attendu,Résultat Obtenu,Statut,Sévérité,Commentaire
+TAPI-001,Vérifier la récupération du token,Package “Administration” déployé sans erreur sur l'outil  Postman (ou autre),"1. Accéder à l’outil Postman
+2. Aller dans l’onglet Administration / Autorisation
+3. Cliquer sur le bouton orange “Get new access token”
+
+",Une modale contenant le token est affichée,Conforme,Succès,,
+TAPI-002,Récupérer la liste des clients via l'API,Token obtenu,Exécuter la requête GET api/admin/customers après avoir mis le token dans l'onglet authorization,"La requête est exécutée sans erreur
+La liste des clients est récupérée
+","Erreur 404 obtenue lours de l'exécution
+Impossible de récupérer la liste des clients",Echec,Bloquante,Voir rapport redmine #512444
+TAPI-003,Vérifier la liste des clients,,Aller dans la liste des clients ,Les informations sur chaque client sont conformes,,Non-testé,,A vérifier après correction du bug précédent

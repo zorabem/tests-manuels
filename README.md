@@ -22,13 +22,13 @@ Module 3 : Ajout d'un article dans le panier d'un site ecommerce
 ## 🔗 Aperçu en ligne
 
 - 🧾 **Voir les cas de test sur Google Sheets** :  
-  👉 https://docs.google.com/spreadsheets/d/196kGWrFFZZYpd9sSCaJTAwiVjQxFP04p/edit?gid=310606351#gid=310606351
+  👉 LMS : https://docs.google.com/spreadsheets/d/196kGWrFFZZYpd9sSCaJTAwiVjQxFP04p/edit?gid=310606351#gid=310606351
   
-  👉 https://docs.google.com/spreadsheets/d/1uI7rPtutLvkNLvEx9hgXrEW9weKzx5YX/edit?gid=310606351#gid=310606351
+  👉 LMS : https://docs.google.com/spreadsheets/d/1uI7rPtutLvkNLvEx9hgXrEW9weKzx5YX/edit?gid=310606351#gid=310606351
   
-  👉 https://docs.google.com/spreadsheets/d/1nCp6yLmjyp5juA_T6kz7lGwLI_sHsDmoI7fQo0SnrLs/edit?gid=1112614028#gid=1112614028
+  👉 API : https://docs.google.com/spreadsheets/d/1nCp6yLmjyp5juA_T6kz7lGwLI_sHsDmoI7fQo0SnrLs/edit?gid=1112614028#gid=1112614028
 
-  👉 https://docs.google.com/spreadsheets/d/1D942ggITR9xj3SRVEjnB7XnDFzyU0M_u/edit?gid=310606351#gid=310606351
+  👉 E-COMMERCE : https://docs.google.com/spreadsheets/d/1D942ggITR9xj3SRVEjnB7XnDFzyU0M_u/edit?gid=310606351#gid=310606351
   
 - 🧾 **Voir les rapports de bug sur Google Sheets** :  
   👉 https://docs.google.com/document/d/1Z_yleFYxFWzDhltg2UNbN5yHSh1FCkh7uKWPRcSBxR8/edit?tab=t.0

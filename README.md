@@ -31,12 +31,17 @@ Module 3 : Ajout d'un article dans le panier d'un site ecommerce
   👉 E-COMMERCE : https://docs.google.com/spreadsheets/d/1D942ggITR9xj3SRVEjnB7XnDFzyU0M_u/edit?gid=310606351#gid=310606351
   
 - 🧾 **Voir les rapports de bug sur Google Sheets** :  
-  👉 https://docs.google.com/document/d/1Z_yleFYxFWzDhltg2UNbN5yHSh1FCkh7uKWPRcSBxR8/edit?tab=t.0
+  👉 LMS : https://docs.google.com/document/d/1Z_yleFYxFWzDhltg2UNbN5yHSh1FCkh7uKWPRcSBxR8/edit?tab=t.0#heading=h.xipwhhtaumw4
   
-  👉 https://docs.google.com/document/d/1rpgjFvA4AjRPtu6JhG2Zx_Ylgc6laYb1fnxTlyP_CZc/edit?tab=t.0#heading=h.xipwhhtaumw4
+  👉 LMS : https://docs.google.com/document/d/1q1UcJA6X0nV0u0cikjkZL279AOC1VcdNoOAw9ap_xSw/edit?tab=t.0#heading=h.xipwhhtaumw4
   
-  👉 https://docs.google.com/document/d/17pJrYzjm2EY4n4kt0ixAeHARBb53nEfWP3of3bgmafU/edit?tab=t.0
-  
+  👉 LMS : https://docs.google.com/document/d/1UoW8Ii5gMKfh_OTnNPEfFWBLN4z2IQ6WBDyTIadrJpA/edit?tab=t.0#heading=h.xipwhhtaumw4
+    
+  👉 API : https://docs.google.com/document/d/1rpgjFvA4AjRPtu6JhG2Zx_Ylgc6laYb1fnxTlyP_CZc/edit?tab=t.0#heading=h.xipwhhtaumw4
+    
+  👉 E-COMMERCE : https://docs.google.com/document/d/17pJrYzjm2EY4n4kt0ixAeHARBb53nEfWP3of3bgmafU/edit?tab=t.0#heading=h.xipwhhtaumw4
+    
+  👉 E-COMMERCE : https://docs.google.com/document/d/1J0fxKxbOWh5fJ4S3OSTDW9wSq9olh6Vk0YA4l1YOhMo/edit?tab=t.0#heading=h.xipwhhtaumw4
 
 ## 🧰 Outils utilisés
 
@@ -48,6 +53,7 @@ Module 3 : Ajout d'un article dans le panier d'un site ecommerce
 
 **Zo Rabemolaly**  
 📧 zo.rabemolaly@yahoo.fr  
+   261 34 66 612 18
 🎯 Testeur QA Freelance – Madagascar  
 
 

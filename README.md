@@ -53,7 +53,9 @@ Module 3 : Ajout d'un article dans le panier d'un site ecommerce
 
 **Zo Rabemolaly**  
 📧 zo.rabemolaly@yahoo.fr  
+
    261 34 66 612 18
+   
 🎯 Testeur QA Freelance – Madagascar  
 
 

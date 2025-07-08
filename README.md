@@ -1,7 +1,6 @@
 # Cas de test QA manuels 
 
-Ce dépôt contient des exemples de cas de tests manuels pour 3 fonctionnalités basiques : login, gestion clients et commandes.
-
+Ce dépôt contient des exemples de cas de tests manuels pour des fonctionnalités basiques : login, gestion clients et commandes.
 
 ## 📋 Contenu
 
@@ -14,19 +13,21 @@ Plateforme : Web
 Navigateurs : Chrome, Firefox  
 Environnement : Préproduction
 
-Module 1 : Connexion utilisateur sur une application multilingues
+Module 1 : Connexion et parcours utilisateur sur une plateforme LMS
 
 Module 2 : Récupération de la liste clients via API
 
-Module 3 : Ajout d'un article dans le panier d'un site ecommerce via mobile
+Module 3 : Ajout d'un article dans le panier d'un site ecommerce
 
 ## 🔗 Aperçu en ligne
 
 - 🧾 **Voir les cas de test sur Google Sheets** :  
   👉 https://docs.google.com/spreadsheets/d/196kGWrFFZZYpd9sSCaJTAwiVjQxFP04p/edit?gid=310606351#gid=310606351
   
-  👉 https://drive.google.com/drive/u/0/folders/1q3Kd2oJmPFNO9MX1t4fjySDwtOmLZ2kU
+  👉 https://docs.google.com/spreadsheets/d/1uI7rPtutLvkNLvEx9hgXrEW9weKzx5YX/edit?gid=310606351#gid=310606351
   
+  👉 https://docs.google.com/spreadsheets/d/1nCp6yLmjyp5juA_T6kz7lGwLI_sHsDmoI7fQo0SnrLs/edit?gid=1112614028#gid=1112614028
+
   👉 https://docs.google.com/spreadsheets/d/1D942ggITR9xj3SRVEjnB7XnDFzyU0M_u/edit?gid=310606351#gid=310606351
   
 - 🧾 **Voir les rapports de bug sur Google Sheets** :  
